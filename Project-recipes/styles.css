@@ -1,3 +1,21 @@
 h1 {
-    color: blue;
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipeList{
+    list-style: none;
+}
+
+.recipes {
+    padding: 5px 5px;
+}
+
+.recipes a{
+    color: black;
 }
